@@ -352,4 +352,27 @@
     <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
     <string name="esc_pos_print_logo">Print logo</string>
+
+    <string name="title_activity_create_customer_account">إنشاء حساب العملاء</string>
+    <string name="firstname">الاسم الاول</string>
+    <string name="lastname">الكنية</string>
+    <string name="customeraccountshortidentifier">حساب معرف القصير</string>
+    <string name="postaladdress">عنوان بريدي</string>
+    <string name="phone">هاتف</string>
+    <string name="taxidentifier">معرف الضريبة</string>
+    <string name="title_account_detail">حساب الزبون</string>
+    <string name="title_account_list">حسابات العملاء</string>
+    <string name="editcustomeraccount">تحرير حساب العملاء</string>
+    <string name="customer_account">حساب الزبون</string>
+    <string name="select_from_address_book">تحديد من جهات اتصال</string>
+    <string name="select_customer_account">حدد حساب العميل</string>
+    <string name="chechout_account">تحقيق حساب</string>
+    <string name="title_activity_account_checkout">الخروج على حساب العميل</string>
+    <string name="account_checkout_invoice_total">إجمالي الفاتورة</string>
+    <string name="account_checkout_account_balance">رصيد الحساب</string>
+    <string name="account_checkout_remaining_balance">الرصيد المتبقي</string>
+    <string name="buy_credit">شراء رصيد</string>
+    <string name="edit">تحرير</string>
+    <string name="account_deposit">شراء قيمة حساب وديعة</string>
+    <string name="loading">جار التحميل</string>
 </resources>

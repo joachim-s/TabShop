@@ -359,6 +359,29 @@
     <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
     <string name="esc_pos_print_logo">Print logo</string>
+
+    <string name="title_activity_create_customer_account">Create customer account</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="customeraccountshortidentifier">Account short identifier</string>
+    <string name="postaladdress">Postal address</string>
+    <string name="phone">Phone</string>
+    <string name="taxidentifier">Tax identifier</string>
+    <string name="title_account_detail">Account</string>
     <string name="title_account_list">Accounts</string>
-    <string name="title_account_detail">Account Detail</string>
+    <string name="editcustomeraccount">Edit customer account</string>
+    <string name="customer_account">Customer account</string>
+    <string name="select_from_address_book">Select from contacts</string>
+    <string name="select_customer_account">Select customer account</string>
+    <string name="chechout_account">Checkout account</string>
+    <string name="title_activity_account_checkout">Checkout on customer account</string>
+    <string name="account_checkout_invoice_total">Invoice total</string>
+    <string name="account_checkout_account_balance">Account balance</string>
+    <string name="account_checkout_remaining_balance">Remaining balance</string>
+    <string name="buy_credit">Buy credit</string>
+    <string name="edit">Edit</string>
+    <string name="account_deposit">Buy deposit account value</string>
+    <string name="loading">Loading</string>
+
+
 </resources>

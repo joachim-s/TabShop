@@ -384,4 +384,28 @@
     <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
     <string name="esc_pos_print_logo">Print logo</string>
+
+
+    <string name="title_activity_create_customer_account">Vytvořit zákaznický účet</string>
+    <string name="firstname">Jméno</string>
+    <string name="lastname">Příjmení</string>
+    <string name="customeraccountshortidentifier">Účet krátký identifikátor</string>
+    <string name="postaladdress">poštovní adresa</string>
+    <string name="phone">Telefon</string>
+    <string name="taxidentifier">Daňové identifikační</string>
+    <string name="title_account_detail">zákaznický účet</string>
+    <string name="title_account_list">zákaznické účty</string>
+    <string name="editcustomeraccount">Upravit účet zákazníka</string>
+    <string name="customer_account">zákaznický účet</string>
+    <string name="select_from_address_book">Vybrat z kontaktů</string>
+    <string name="select_customer_account">Vybrat zákaznický účet</string>
+    <string name="chechout_account">Pokladna účet</string>
+    <string name="title_activity_account_checkout">Pokladna na účet zákazníka</string>
+    <string name="account_checkout_invoice_total">faktura celkem</string>
+    <string name="account_checkout_account_balance">Zůstatek na účtu</string>
+    <string name="account_checkout_remaining_balance">Zůstatek účtu</string>
+    <string name="buy_credit">koupit kredit</string>
+    <string name="edit">editovat</string>
+    <string name="account_deposit">Koupit hodnotu vkladového účtu</string>
+    <string name="loading">nakládání</string>
 </resources>

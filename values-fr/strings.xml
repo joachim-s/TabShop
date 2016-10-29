@@ -383,4 +383,28 @@
     <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
     <string name="esc_pos_print_logo">Print logo</string>
+
+
+    <string name="title_activity_create_customer_account">Créer un compte client</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom de famille</string>
+    <string name="customeraccountshortidentifier">Identificateur de compte court</string>
+    <string name="postaladdress">Adresse postale</string>
+    <string name="phone">Téléphone</string>
+    <string name="taxidentifier">Identificateur fiscal</string>
+    <string name="title_account_detail">Compte client</string>
+    <string name="title_account_list">Compte client</string>
+    <string name="editcustomeraccount">Modifier le compte client</string>
+    <string name="customer_account">Compte client</string>
+    <string name="select_from_address_book">Sélectionnez parmi les contacts</string>
+    <string name="select_customer_account">Sélectionnez un compte client</string>
+    <string name="chechout_account">Compte à cocher</string>
+    <string name="title_activity_account_checkout">Commande sur compte client</string>
+    <string name="account_checkout_invoice_total">Total de la facture</string>
+    <string name="account_checkout_account_balance">Solde du compte</string>
+    <string name="account_checkout_remaining_balance">Solde restant</string>
+    <string name="buy_credit">Acheter du crédit</string>
+    <string name="edit">Modifier</string>
+    <string name="account_deposit">Acheter la valeur du compte de dépôt</string>
+    <string name="loading">Loading</string>
 </resources>

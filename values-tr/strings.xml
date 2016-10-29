@@ -351,4 +351,27 @@
     <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
     <string name="esc_pos_print_logo">Print logo</string>
+
+    <string name="title_activity_create_customer_account">Müşteri hesabı oluşturun</string>
+    <string name="firstname">İsim</string>
+    <string name="lastname">Soyadı</string>
+    <string name="customeraccountshortidentifier">Hesap kısa tanımlayıcı</string>
+    <string name="postaladdress">Posta adresi</string>
+    <string name="phone">Telefon</string>
+    <string name="taxidentifier">Vergi tanımlayıcı</string>
+    <string name="title_account_detail">Müşteri hesabı</string>
+    <string name="title_account_list">Müşteri hesapları</string>
+    <string name="editcustomeraccount">Düzenleme müşteri hesabı</string>
+    <string name="customer_account">Müşteri hesabı</string>
+    <string name="select_from_address_book">Kişilerden seç</string>
+    <string name="select_customer_account">Seç müşteri hesabı</string>
+    <string name="chechout_account">Checkout hesabı</string>
+    <string name="title_activity_account_checkout">Müşteri hesabına Ödeme</string>
+    <string name="account_checkout_invoice_total">Fatura toplamı</string>
+    <string name="account_checkout_account_balance">Hesap bakiyesi</string>
+    <string name="account_checkout_remaining_balance">Bakiye</string>
+    <string name="buy_credit">Kontör satın</string>
+    <string name="edit">Düzenleme</string>
+    <string name="account_deposit">Mevduat hesabı değerini satın almak</string>
+    <string name="loading">Loading</string>
 </resources>

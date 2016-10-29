@@ -25,7 +25,7 @@
     <string name="authorizenet">Authorize.NET</string>
     <string name="authorizenet_login">Authorize Login</string>
     <string name="authorizenet_pwd">Authorize Password</string>
-    <string name="authorizenet_register">Register Device</string>
+    <string name="authorizenet_register">Gerät registrieren</string>
         <!-- Strings related to Application Information -->
  
     <!-- Strings related to Enter Card Information page -->
@@ -294,7 +294,7 @@
     <string name="show_product">Produkt Anzeigen</string>
     <string name="new_product">Produkt Erstellen</string>
     <string name="change_product">Produkt Ändern</string>
-    <string name="delete_product">Produkt Löschen</string>
+    <string name="delete_product">Produkt löschen</string>
     
     <!-- Reporting Dialog -->
     <string name="graph">Erzeuge Chart</string>
@@ -336,8 +336,8 @@
     <string name="capture_name">QR Code Capture</string>
     <string name="encoder_name">QR Code Encoder</string>
     <string name="decoder_name">QR Code Decoder</string>
-    <string name="contents_contact">Contact info</string>
-    <string name="contents_email">Email address</string>
+    <string name="contents_contact">Kontakt info</string>
+    <string name="contents_email">Emailaddresse</string>
     <string name="contents_location">Geographic coordinates</string>
     <string name="contents_phone">Phone number</string>
     <string name="contents_sms">SMS address</string>
@@ -363,7 +363,7 @@
     <string name="wifi_changing_network">Changing Network</string>
     <string name="wifi_ssid_label">Network Name</string>
     <string name="wifi_type_label">Type</string>
-    <string name="barcode_image">Barcode Image</string>
+    <string name="barcode_image">Barcode</string>
     <string name="file_storage_location">File Storage Location</string>
     <string name="payleven">payleven</string>
     <string name="yodo">yodo</string>
@@ -374,7 +374,7 @@
     <string name="import_etsy">Etsy import</string>
     <string name="set_file_storage_directory_warning">Bitte zuerst den Speicherort in den Einstellungen festlegen!</string>
     <string name="promote_product">Promote Product</string>
-    <string name="help">Help</string>
+    <string name="help">Hilfe</string>
     <string name="stripe">Stripe</string>
     <string name="settings_stripe_key">Stripe Key</string>
     <string name="settings_character_encoding">Character encoding</string>
@@ -385,4 +385,27 @@
     <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
     <string name="esc_pos_print_logo">Print logo</string>
+
+    <string name="title_activity_create_customer_account">Erstelle Kundenkonto</string>
+    <string name="firstname">Vorname</string>
+    <string name="lastname">Nachname</string>
+    <string name="customeraccountshortidentifier">Kundenkonto Kurzbezeichnung</string>
+    <string name="postaladdress">Addresse</string>
+    <string name="phone">Telefon</string>
+    <string name="taxidentifier">Steuernummer</string>
+    <string name="title_account_detail">Kundenkonto</string>
+    <string name="title_account_list">Kundenkonten</string>
+    <string name="editcustomeraccount">Bearbeiten</string>
+    <string name="customer_account">Kundenkonto</string>
+    <string name="select_from_address_book">Auswahl aus Kontakten</string>
+    <string name="select_customer_account">Suche Kundenkonto</string>
+    <string name="chechout_account">Kundenkonto</string>
+    <string name="title_activity_account_checkout">Rechnung mit Kundenkonto</string>
+    <string name="account_checkout_invoice_total">Rechnungssumme</string>
+    <string name="account_checkout_account_balance">Guthaben</string>
+    <string name="account_checkout_remaining_balance">Restguthaben</string>
+    <string name="buy_credit">Guthaben kaufen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="account_deposit">Guthaben kaufen</string>
+    <string name="loading">Laden</string>
 </resources>
