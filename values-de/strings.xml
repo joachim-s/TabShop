@@ -137,7 +137,7 @@
     <string name="minStockValueTitle">Minimum Kritischer Lagerstand</string>
     <string name="low_stock_notify_msg">Kritischer Lagerstand:</string>
     
-    <string name="product_attr_print_description">Drucke Beschreibung (Garantie)</string>
+    <string name="product_attr_print_description">Drucke Beschreibung</string>
     <string name="product_attr_sale">Abverkauf</string>
     <string name="product_attr_backorder">Rückstand</string>
     <string name="product_attr_discontinued">Auslaufend</string>
@@ -277,7 +277,7 @@
     <string name="print_invoice_check">Zahlung mit Scheck</string>
     
     <!-- InvoicePDFPrinter -->
-    <string name="print_pdf_printer_recipient">To:</string>
+    <string name="print_pdf_printer_recipient">Empfänger:</string>
     <string name="print_pdf_printer_tax">Steuer</string>
     <string name="print_pdf_printer_total">Summe</string>
     <string name="print_pdf_printer_cash">Bar</string>
